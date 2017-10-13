@@ -12,4 +12,4 @@
 *.prv
 *.synctex.gz
 prv_*
-auto/*
+*/auto/*
